@@ -27,8 +27,8 @@ These are some of the major technologies that I have worked on in the past:
 
 <br>
 
-## Views :eyes:
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MKaif-Qureshi/count.svg?"  />
+  
+  Visitors :eyes: | <img src="https://profile-counter.glitch.me/MKaif-Qureshi/count.svg?"  /> |
+  ---|---|
 </div>
