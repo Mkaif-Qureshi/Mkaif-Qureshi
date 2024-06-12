@@ -2,7 +2,7 @@
 <h1>Hie There, I'm Kaif Qureshi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ```
-An avid learner by day, a coding maestro by night—this student and developer is fueled by an insatiable passion for knowledge!
+- this student and developer is fueled by an insatiable passion for knowledge!
 ```
 
 ## Skills :muscle:
