@@ -1,9 +1,7 @@
 
-<h1>Hie There, I'm Kaif Qureshi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hie There <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am</h1>
 
-```
-- this student and developer is fueled by an insatiable passion for knowledge!
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=M.Kaif%20Qureshi&descAlign=100&descAlignY=57" width="999px" >
 
 ## Skills :muscle:
 
