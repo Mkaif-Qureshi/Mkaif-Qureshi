@@ -25,7 +25,9 @@ I love building software and bringing ideas to life through code. Curiosity driv
 
 <div align="center">
 
-| <img src="https://profile-counter.glitch.me/MKaif-Qureshi/count.svg" /> | &nbsp; |
-|------------|-------|
+| ![](https://komarev.com/ghpvc/?username=Mkaif-Qureshi&color=green) |
+|------------|
+
+
 
 </div>
